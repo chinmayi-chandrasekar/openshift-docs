@@ -514,6 +514,8 @@ Topics:
     File: investigating-monitoring-issues
   - Name: Diagnosing OpenShift CLI (oc) issues
     File: diagnosing-oc-issues
+  - Name: Handling out of resource errors
+    File: handling-out-of-resources-error
 ---
 Name: Web console
 Dir: web_console
